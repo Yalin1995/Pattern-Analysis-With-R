@@ -1,6 +1,6 @@
 # Pattern Analysis With R
 
-This course taught by Doctor [Michael Tiefelsdorf](https://profiles.utdallas.edu/tiefelsdorf)
+### This course taught by Doctor [Michael Tiefelsdorf](https://profiles.utdallas.edu/tiefelsdorf)
 
 This graduate course focuses on the geo-statistical methodology to [a]
 analyze, [b] model and [c] simulate spatial processes. Methods covered
