@@ -14,3 +14,7 @@ surfaces and spatial co-variables.
 * [Circular Data](https://yalin1995.github.io/Pattern-Analysis-With-R/Lecture02/CircularData.nb.html)
 * [Cluster Analysis](https://yalin1995.github.io/Pattern-Analysis-With-R/Lecture02/ClusterAnalysis.nb.html)
 * [Fourier Transformation](https://yalin1995.github.io/Pattern-Analysis-With-R/Lecture02/FourierTransformation.nb.html)
+
+### 5. [Lecture_W05_Trend_Surface](https://yalin1995.github.io/Pattern-Analysis-With-R/Lecture05/TrendSurface.pdf)
+* [TrendSurface](https://yalin1995.github.io/Pattern-Analysis-With-R/Lecture05/TrendSurface.nb.html)
+* [Application](https://yalin1995.github.io/Pattern-Analysis-With-R/Lecture05/Lab4.nb.html)
